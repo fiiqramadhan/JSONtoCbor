@@ -1,0 +1,27 @@
+{
+  "data": {
+    "patient": {
+      "name": "A. RIZAL",
+      "gender": "Male",
+      "birthdate": "199103200000"
+    },
+    "specimen": {
+      "code": "258500001",
+      "dateTime": "202106091239"
+    },
+    "observation": {
+      "serial": "Observation-identifier",
+      "testCode": "94558-4",
+      "resultCode": "260385009",
+      "testNameOnReport": "SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory specimen by Rapid Immunoassay"
+    },
+    "lab": {
+      "name": "Eka Hospital Bekasi",
+      "url": "www.ekahospital.com",
+      "address": "Kota Harapan Indah Blok i2-9 No. 9 Kab. Bekasi 17214",
+      "phone": "(+6221) 509 35555",
+      "identifier": "organization-lab-1"
+    },
+    "Signature": "0"
+  }
+}
